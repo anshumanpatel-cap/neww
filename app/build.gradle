@@ -28,6 +28,9 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
 
 
+    //ratingbar smiley
+//    implementation 'com.github.sujithkanna:smileyrating:1.6.8'
+
     //CardStack View
     implementation "com.yuyakaido.android:card-stack-view:2.3.4"
 
