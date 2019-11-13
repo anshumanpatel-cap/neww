@@ -1,11 +1,11 @@
 <resources>
     <string name="app_name">PM</string>
 
-    <string name="smile_rating_terrible">Terrible</string>
-    <string name="smile_rating_bad">Bad</string>
-    <string name="smile_rating_okay">Okay</string>
-    <string name="smile_rating_good">Good</string>
-    <string name="smile_rating_great">Great</string>
+    <string name="smile_rating_terrible">Disagree</string>
+    <string name="smile_rating_bad"></string>
+    <string name="smile_rating_okay">Neutral</string>
+    <string name="smile_rating_good"></string>
+    <string name="smile_rating_great">Agree</string>
 
     <string-array name="names">
         <item>@string/smile_rating_terrible</item>

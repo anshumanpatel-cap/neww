@@ -32,6 +32,8 @@ dependencies {
 //    implementation 'com.github.sujithkanna:smileyrating:1.6.8'
 
     //CardStack View
-    implementation "com.yuyakaido.android:card-stack-view:2.3.4"
+//    implementation "com.yuyakaido.android:card-stack-view:2.3.4"
 
+    //Spotlight for tutorial
+    implementation 'com.github.takusemba:spotlight:2.0.1'
 }

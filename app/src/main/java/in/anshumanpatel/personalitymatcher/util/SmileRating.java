@@ -71,13 +71,13 @@ public class SmileRating extends BaseRating {
     private Paint mTextPaint = new Paint();
 
     @Smiley
-    private int mSelectedSmile = NONE;
+    private int mSelectedSmile = OKAY;
     @Smiley
     private int mPreviousSmile = -1;
     @Smiley
-    private int mNearestSmile = NONE;
+    private int mNearestSmile = OKAY;
     @Smiley
-    private int mPendingActionSmile = NONE;
+    private int mPendingActionSmile = OKAY;
     private Smileys mSmileys;
     // private float mTranslation = 0;
     private float mWidth;
